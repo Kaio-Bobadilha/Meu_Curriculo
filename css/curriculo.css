@@ -1,0 +1,50 @@
+body{
+    font-family: 'Arial', Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #333;
+    text-align: center;
+    padding: 20px;
+    color:white;
+}
+
+section{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: solid 2px darkgray;
+    
+}
+.forma{
+    list-style:inside;
+}
+
+ul {
+    list-style:none;
+    padding: 0;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+a{
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    
+}
+
